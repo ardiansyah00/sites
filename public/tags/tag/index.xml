@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tag on ardiansyah</title>
+    <link>https://ardiansyah.github.io/tags/tag/</link>
+    <description>Recent content in tag on ardiansyah</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 30 Apr 2019 22:06:09 +0700</lastBuildDate>
+    
+	<atom:link href="https://ardiansyah.github.io/tags/tag/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Portfolio</title>
+      <link>https://ardiansyah.github.io/portfolio/</link>
+      <pubDate>Tue, 30 Apr 2019 22:06:09 +0700</pubDate>
+      
+      <guid>https://ardiansyah.github.io/portfolio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://ardiansyah.github.io/about/</link>
+      <pubDate>Tue, 30 Apr 2019 22:04:31 +0700</pubDate>
+      
+      <guid>https://ardiansyah.github.io/about/</guid>
+      <description>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet, consequuntur laboriosam. In quas voluptates eos quod ad velit reiciendis, ut, nesciunt quibusdam ipsam possimus dignissimos? Consequatur cumque, magni non officiis a fugit unde quisquam veniam aliquam sint adipisci vel voluptatum perspiciatis ut nam quae magnam, ipsa dignissimos numquam velit eum nulla! Est et alias, aut cumque tempore, temporibus assumenda accusantium dolores sint quia at hic quisquam perferendis omnis officiis illo sit.</description>
+    </item>
+    
+  </channel>
+</rss>

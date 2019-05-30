@@ -1,0 +1,32 @@
+title = "ardiansyah"
+baseurl = "https://example.io/"
+
+# Agar front-matter pakai format YAML
+MetaDataFormat = "yaml"
+
+# untuk apply temanya
+themesDir = "themes"
+theme = "dimas"
+
+
+# Untuk deskripsi tag meta di homepage
+description = "Blog Programmer "
+googleAnalytics = ""
+disqusShortname = "ardiansyah"
+
+[permalinks]
+  post = "/blog/:slug/"
+  page = "/:slug/"
+
+[params]
+    # Site Author
+    author = "Dimas"
+
+    # Description/subtitle for homepage
+    description = "Hello, saya Dimas. Blog ini belum jadi. Sabar ya..."
+
+# Biodata Author
+[author]
+    name = "Ardiansyah"
+    homepage = "https://www.instagram.com/rdnsyh__/"
+    

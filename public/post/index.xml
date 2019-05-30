@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on ardiansyah</title>
+    <link>https://ardiansyah.github.io/post/</link>
+    <description>Recent content in Posts on ardiansyah</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 30 Apr 2019 22:08:50 +0700</lastBuildDate>
+    
+	<atom:link href="https://ardiansyah.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>New2</title>
+      <link>https://ardiansyah.github.io/blog/new2/</link>
+      <pubDate>Tue, 30 Apr 2019 22:08:50 +0700</pubDate>
+      
+      <guid>https://ardiansyah.github.io/blog/new2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New</title>
+      <link>https://ardiansyah.github.io/blog/new/</link>
+      <pubDate>Tue, 30 Apr 2019 22:08:26 +0700</pubDate>
+      
+      <guid>https://ardiansyah.github.io/blog/new/</guid>
+      <description>bbbbbbb</description>
+    </item>
+    
+  </channel>
+</rss>
