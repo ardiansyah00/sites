@@ -1,5 +1,5 @@
 title = "ardiansyah"
-baseurl = "https://ardiansyah.github.io/"
+baseurl = "https://ardian.github.io/"
 
 # Agar front-matter pakai format YAML
 MetaDataFormat = "yaml"
