@@ -11,7 +11,7 @@ theme = "dimas"
 
 # Untuk deskripsi tag meta di homepage
 description = "Blog Programmer "
-googleAnalytics = ""
+googleAnalytics = "UA-141209836-1"
 disqusShortname = "ardiansyah"
 
 [permalinks]
